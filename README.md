@@ -2,20 +2,16 @@
 
 
 **Retrieval-Augmented Generation (RAG) System Overview**
-
 This project features a custom Retrieval-Augmented Generation (RAG) system designed for highly accurate document-based question answering. Users can upload any document at runtime and immediately benefit from advanced retrieval capabilities.
 
 **Key Features**
-
 Dynamic Document Handling
 Upload documents on the fly—no need to pre-process or configure data ahead of time.
 
-  **Smart Document Chunking**
-  
+  **Smart Document Chunking**  
     Upon upload, documents are automatically split into smaller, manageable chunks, optimizing both search efficiency and retrieval accuracy.
 
   **Embedding Creation**
-  
     Each chunk is transformed into a dense vector representation (embedding) using state-of-the-art embedding models. This allows the system to capture the true semantic meaning of the text beyond mere keywords.
 
   **Vector Database Storage**
