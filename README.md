@@ -47,3 +47,5 @@ Semantic retrieval provides more relevant and reliable responses compared to cla
 System is scalable and suited for varied domains, supporting both individual use and team collaboration.
 
 This solution delivers a highly flexible and accurate way to query your own documents using modern RAG technology, ensuring your answers are always based on the most relevant, up-to-date information.
+
+<img width="1197" height="881" alt="image" src="https://github.com/user-attachments/assets/adf4a814-611f-43c0-be63-dbbbd86c3400" />
