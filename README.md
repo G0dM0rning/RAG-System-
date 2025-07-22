@@ -1,4 +1,4 @@
-# A RAG system that takes the document at runtime.
+# A RAG System that Takes the Document at Runtime.
 
 
 **Retrieval-Augmented Generation (RAG) System Overview**
